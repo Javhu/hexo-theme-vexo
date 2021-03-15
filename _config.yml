@@ -1,16 +1,16 @@
-author: yanm1ng # 作者
-description: yanm1ng's blog
+author: Javhu # 作者
+description: Javhu的博客
 keyword: hexo-theme, vuejs
 favicon: 
 
-excerpt_link: Read more
+excerpt_link: 展开
 
 menu:
- Home: /
- Tags: /tags/
- Archives: /archives/
- Projects: /project/
- About: /about/
+ 首页: /
+ 标签: /tags/
+ 归档: /archives/
+ 项目: /project/
+ 关于: /about/
 
 # highlight
 highlight:
@@ -27,32 +27,31 @@ qrcode: true
 
 # comment
 # you can set gitment, uyan or disqus
-
 comment: gitment
 
 # gitment config
-gitment_owner: yanm1ng
-gitment_repo: yanm1ng.github.io
-gitment_oauth_id: 0f87e490e00ee3fd87ef
-gitment_oauth_secret: 4a9d2b148e7971c2201ad12131ce8bf8159ccd2e
+gitment_owner: Javhu
+gitment_repo: hexo_comments
+gitment_oauth_id: ebef9476f10fb6260605
+gitment_oauth_secret: f1e347e9b74201ec8629cf1667cd450ba469dcb1
 
 # uyan config
 # if you want to use uyan as your blog comment, plz remove/comment out gitment config
-baidu_id: 
-google_analytics:
+#baidu_id: 
+#google_analytics:
 # disqus config
-disqus_shortname: 
+#disqus_shortname: 
 
 about: 
   banner: http://file.muyutech.com/about.jpg
   avatar: https://avatars3.githubusercontent.com/u/16443628?v=3&s=460
-  description: "The end is always near."
-  weibo_username: yanm1ng
-  twitter_username: yanm1ng
-  github_username: yanm1ng
-  zhihu_username: yummy1121
-  douban_username: yanm1ng
-  linkedin_username:
+  description: "不试试怎么知道你是真的不会还是假的会"
+  weibo_username: 储小V
+  twitter_username: javhu
+  github_username: Javhu
+  zhihu_username: javhu
+  douban_username: javhu
+  linkedin_username: javhu
 
 # MathJax Support
 mathjax:
