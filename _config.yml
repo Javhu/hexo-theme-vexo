@@ -44,7 +44,7 @@ gitment_oauth_secret: f1e347e9b74201ec8629cf1667cd450ba469dcb1
 
 about: 
   banner: http://file.muyutech.com/about.jpg
-  avatar: https://avatars3.githubusercontent.com/u/16443628?v=3&s=460
+  avatar: css/images/logo.jpg
   description: "不试试怎么知道你是真的不会还是假的会"
   weibo_username: 储小V
   twitter_username: javhu
