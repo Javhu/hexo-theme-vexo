@@ -31,7 +31,7 @@ comment: gitment
 
 # gitment config
 gitment_owner: Javhu
-gitment_repo: hexo_comments
+gitment_repo: blog_hexo
 gitment_oauth_id: ebef9476f10fb6260605
 gitment_oauth_secret: f1e347e9b74201ec8629cf1667cd450ba469dcb1
 
@@ -43,8 +43,8 @@ gitment_oauth_secret: f1e347e9b74201ec8629cf1667cd450ba469dcb1
 #disqus_shortname: 
 
 about: 
-  banner: http://file.muyutech.com/about.jpg
-  avatar: css/images/logo.jpg
+  banner: ../css/images/background.jpg
+  avatar: ../css/images/logo.jpg
   description: "不试试怎么知道你是真的不会还是假的会"
   weibo_username: javhu
   twitter_username: javhu
